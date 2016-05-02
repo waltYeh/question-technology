@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.3)  30 APR 2016 22:43
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.3)  2 MAY 2016 23:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1007,27 +1007,54 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] [2]
 
-LaTeX Warning: Citation `slct_Hei_Szx' on page 3 undefined on input line 63.
+LaTeX Warning: Citation `slct_Hei_Szx' on page 3 undefined on input line 62.
 
 
-LaTeX Warning: Citation `slct_Hei_Szx' on page 3 undefined on input line 65.
+LaTeX Warning: Citation `slct_Hei_Szx' on page 3 undefined on input line 64.
 
 
-LaTeX Warning: Citation `sprach_sein_Szx' on page 3 undefined on input line 68.
+LaTeX Warning: Citation `sprach_sein_Szx' on page 3 undefined on input line 67.
 
 
+[3]
 
-LaTeX Warning: Citation `Text_Explain_DeFr' on page 3 undefined on input line 7
-2.
-
-
-LaTeX Warning: Citation `Deonstr_DeFr' on page 3 undefined on input line 74.
+LaTeX Warning: Citation `Text_Explain_DeFr' on page 4 undefined on input line 7
+1.
 
 
-LaTeX Warning: Citation `slct_Hei_Szx' on page 3 undefined on input line 76.
+LaTeX Warning: Citation `Deonstr_DeFr' on page 4 undefined on input line 73.
 
+
+LaTeX Warning: Citation `slct_Hei_Szx' on page 4 undefined on input line 75.
+
+
+LaTeX Warning: Citation `Deonstr_DeFr' on page 4 undefined on input line 79.
+
+[4] [5]
+
+LaTeX Warning: Citation `yellow_etym' on page 6 undefined on input line 132.
+
+[6]
+
+LaTeX Warning: Citation `yellow_etym' on page 7 undefined on input line 150.
+
+[7] [8]
+
+LaTeX Warning: Citation `Quest_Concern_Tech' on page 9 undefined on input line 
+173.
+
+[9]
+
+LaTeX Warning: Citation `Quest_Concern_Tech' on page 10 undefined on input line
+ 176.
+
+
+LaTeX Warning: Citation `Aca_Transl_SZx' on page 10 undefined on input line 182
+.
+
+[10] [11] [12]
 No file Die_Frage_nach_der_Technik_Wörteranalyse.bbl.
-[3] (./Die_Frage_nach_der_Technik_Wörteranalyse.aux)
+[13] (./Die_Frage_nach_der_Technik_Wörteranalyse.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1036,12 +1063,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 16930 strings out of 493918
- 356746 string characters out of 6150564
- 390583 words of memory out of 5000000
- 20112 multiletter control sequences out of 15000+600000
+ 17040 strings out of 493918
+ 361407 string characters out of 6150564
+ 399583 words of memory out of 5000000
+ 20222 multiletter control sequences out of 15000+600000
  6544 words of font info for 44 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  52i,6n,55p,10459b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Die_Frage_nach_der_Technik_Wörteranalyse.pdf (3 pages).
+Output written on Die_Frage_nach_der_Technik_Wörteranalyse.pdf (13 pages).
