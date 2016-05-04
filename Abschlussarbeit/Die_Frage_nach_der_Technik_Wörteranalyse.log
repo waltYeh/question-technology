@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.3)  2 MAY 2016 23:53
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.3)  4 MAY 2016 00:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1053,8 +1053,26 @@ LaTeX Warning: Citation `Aca_Transl_SZx' on page 10 undefined on input line 182
 .
 
 [10] [11] [12]
+
+LaTeX Warning: Citation `wNachbarK_Goet' on page 13 undefined on input line 226
+.
+
+
+LaTeX Warning: Citation `wNachbarK_trans' on page 13 undefined on input line 22
+8.
+
+
+LaTeX Warning: Citation `Frage_n_Tech' on page 13 undefined on input line 234.
+
+
+LaTeX Warning: Citation `slct_Hei_Szx' on page 13 undefined on input line 234.
+
+
+LaTeX Warning: Citation `slct_Hei_Szx' on page 13 undefined on input line 234.
+
+[13] [14]
 No file Die_Frage_nach_der_Technik_Wörteranalyse.bbl.
-[13] (./Die_Frage_nach_der_Technik_Wörteranalyse.aux)
+[15] (./Die_Frage_nach_der_Technik_Wörteranalyse.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1063,12 +1081,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 17040 strings out of 493918
- 361407 string characters out of 6150564
+ 17052 strings out of 493918
+ 361829 string characters out of 6150564
  399583 words of memory out of 5000000
- 20222 multiletter control sequences out of 15000+600000
+ 20234 multiletter control sequences out of 15000+600000
  6544 words of font info for 44 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  52i,6n,55p,10459b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Die_Frage_nach_der_Technik_Wörteranalyse.pdf (13 pages).
+Output written on Die_Frage_nach_der_Technik_Wörteranalyse.pdf (15 pages).
