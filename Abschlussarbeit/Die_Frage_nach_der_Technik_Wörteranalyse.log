@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.3)  9 MAY 2016 10:37
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.3)  11 MAY 2016 14:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1005,7 +1005,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `Die_Frage_nach_der_Technik_Wörteranalyse.toc'.
 
- [2] [3]
+ [2] [3] [4]
 Missing character: There is no π in font [lmroman10-regular]:mapping=tex-text!
 Missing character: There is no ο in font [lmroman10-regular]:mapping=tex-text!
 Missing character: There is no ί in font [lmroman10-regular]:mapping=tex-text!
@@ -1013,64 +1013,60 @@ Missing character: There is no η in font [lmroman10-regular]:mapping=tex-text!
 Missing character: There is no σ in font [lmroman10-regular]:mapping=tex-text!
 Missing character: There is no ι in font [lmroman10-regular]:mapping=tex-text!
 Missing character: There is no ς in font [lmroman10-regular]:mapping=tex-text!
- [4] [5]
+ [5]
 
-LaTeX Warning: Citation `slct_Hei_Szx' on page 6 undefined on input line 89.
-
-
-LaTeX Warning: Citation `slct_Hei_Szx' on page 6 undefined on input line 91.
+LaTeX Warning: Citation `slct_Hei_Szx' on page 6 undefined on input line 92.
 
 
-LaTeX Warning: Citation `sprach_sein_Szx' on page 6 undefined on input line 94.
+LaTeX Warning: Citation `slct_Hei_Szx' on page 6 undefined on input line 94.
+
+
+LaTeX Warning: Citation `sprach_sein_Szx' on page 6 undefined on input line 97.
 
 
 
-LaTeX Warning: Citation `Text_Explain_DeFr' on page 6 undefined on input line 9
-8.
+LaTeX Warning: Citation `Text_Explain_DeFr' on page 6 undefined on input line 1
+01.
 
 
-LaTeX Warning: Citation `Deonstr_DeFr' on page 6 undefined on input line 100.
+LaTeX Warning: Citation `Deonstr_DeFr' on page 6 undefined on input line 103.
 
 
-LaTeX Warning: Citation `slct_Hei_Szx' on page 6 undefined on input line 102.
+LaTeX Warning: Citation `slct_Hei_Szx' on page 6 undefined on input line 105.
 
+[6]
 
-LaTeX Warning: Citation `Deonstr_DeFr' on page 6 undefined on input line 106.
+LaTeX Warning: Citation `Deonstr_DeFr' on page 7 undefined on input line 109.
 
-[6] [7] [8]
+[7] [8]
 
-LaTeX Warning: Citation `yellow_etym' on page 9 undefined on input line 166.
+LaTeX Warning: Citation `yellow_etym' on page 9 undefined on input line 168.
 
-[9]
+[9] [10]
 
-LaTeX Warning: Citation `yellow_etym' on page 10 undefined on input line 184.
+LaTeX Warning: Citation `yellow_etym' on page 11 undefined on input line 183.
 
-[10] [11]
+[11] [12] [13] [14] [15]
 
-LaTeX Warning: Citation `Quest_Concern_Tech' on page 12 undefined on input line
- 210.
-
-[12] [13] [14]
-
-LaTeX Warning: Citation `wNachbarK_Goet' on page 15 undefined on input line 260
+LaTeX Warning: Citation `wNachbarK_Goet' on page 16 undefined on input line 282
 .
 
 
-LaTeX Warning: Citation `wNachbarK_trans' on page 15 undefined on input line 26
-2.
+LaTeX Warning: Citation `wNachbarK_trans' on page 16 undefined on input line 28
+4.
 
 
-LaTeX Warning: Citation `Frage_n_Tech' on page 15 undefined on input line 268.
+LaTeX Warning: Citation `Frage_n_Tech' on page 16 undefined on input line 290.
 
 
-LaTeX Warning: Citation `slct_Hei_Szx' on page 15 undefined on input line 268.
+LaTeX Warning: Citation `slct_Hei_Szx' on page 16 undefined on input line 290.
 
 
-LaTeX Warning: Citation `slct_Hei_Szx' on page 15 undefined on input line 268.
+LaTeX Warning: Citation `slct_Hei_Szx' on page 16 undefined on input line 290.
 
-[15] [16]
+[16] [17]
 No file Die_Frage_nach_der_Technik_Wörteranalyse.bbl.
-[17] (./Die_Frage_nach_der_Technik_Wörteranalyse.aux)
+[18] (./Die_Frage_nach_der_Technik_Wörteranalyse.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1079,12 +1075,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 17030 strings out of 493918
- 360840 string characters out of 6150564
- 397583 words of memory out of 5000000
- 20212 multiletter control sequences out of 15000+600000
+ 17034 strings out of 493918
+ 361027 string characters out of 6150564
+ 398583 words of memory out of 5000000
+ 20216 multiletter control sequences out of 15000+600000
  6544 words of font info for 44 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  52i,6n,55p,10459b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Die_Frage_nach_der_Technik_Wörteranalyse.pdf (17 pages).
+Output written on Die_Frage_nach_der_Technik_Wörteranalyse.pdf (18 pages).
